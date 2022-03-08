@@ -1,0 +1,18 @@
+.project--card--container{
+    width:200px;
+    height:200px;
+    background-color: hsl(211, 22%, 73%);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    user-select: none;
+    margin:5px;
+
+}
+.project--card--container:hover{
+    cursor: pointer;
+    background-color: hsl(208, 19%, 68%);
+
+}

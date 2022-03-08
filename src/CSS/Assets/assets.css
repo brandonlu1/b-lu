@@ -1,0 +1,18 @@
+.title2{
+    font-size: 2rem;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title3{
+    font-size: 1rem;
+    color:rgb(0, 0, 0);
+    font-weight: 100;
+    padding:3%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.split--image{
+    width:90%;
+    user-select: none;
+    pointer-events: none;
+}
