@@ -27,7 +27,7 @@ export default function BlackJack(props){
                 <br/>
                 &emsp;&emsp;The hardest part of the project was getting started: I had 
                 no idea how I would create a card game using JavaScript, or how to engineer the game logic needed. It took a bit of time to piece everything together, but implementation came quickly after I sorted everything out. In total, the app 
-                took roughly two and a half weeks to complete. Right now, the only game implemented is Black Jack, but I plan on implementing more card games in the future.
+                took roughly two weeks to complete. Right now, the only game implemented is Black Jack, but I plan on implementing more card games in the future.
                 <br/>
                 <br/>
                 <strong>Technologies Used: </strong>ReactJS, Node,js, Express, MongoDB, Deck of Cards API

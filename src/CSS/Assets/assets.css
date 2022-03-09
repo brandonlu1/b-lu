@@ -12,7 +12,19 @@
     font-family: 'Courier New', Courier, monospace;
 }
 .split--image{
-    width:90%;
+    width:420px;
     user-select: none;
     pointer-events: none;
+    border-radius: 4px;
+    box-shadow: 0px 10px 45px 3px rgb(151, 159, 167);
+}
+
+.fr{
+    display:flex;
+    flex-direction: row;
+}
+
+.fc{
+    display: flex;
+    flex-direction: column;
 }

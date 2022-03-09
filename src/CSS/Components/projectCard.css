@@ -1,6 +1,8 @@
 .project--card--container{
     width:200px;
+    width:630px;
     height:200px;
+    height:120px;
     background-color: hsl(211, 22%, 73%);
     border-radius: 8px;
     display: flex;
