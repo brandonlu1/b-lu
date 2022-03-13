@@ -2,7 +2,7 @@
     width:200px;
     width:630px;
     height:200px;
-    height:120px;
+    height:70px;
     background-color: hsl(211, 22%, 73%);
     border-radius: 8px;
     display: flex;
@@ -16,5 +16,4 @@
 .project--card--container:hover{
     cursor: pointer;
     background-color: hsl(208, 19%, 68%);
-
 }

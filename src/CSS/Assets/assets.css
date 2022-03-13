@@ -28,3 +28,13 @@
     display: flex;
     flex-direction: column;
 }
+
+.fjc{
+    display: flex;
+    justify-content: center;
+}
+
+.faic{
+    display: flex;
+    align-items: center;
+}

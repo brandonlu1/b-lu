@@ -23,9 +23,8 @@ export default function Home(props){
             <div className="">
                 <p className="title3">
                     <br/>
-                    &emsp;&emsp;Hi, I'm Brandon. I am currently a first year student studying Computer Science at RIT.
-                    I am currently interested in web development, but I plan on exploring all sorts of fields.
-                    Feel free to look at some of my previous projects below or check me out on <a href="https://github.com/brandonlu1">Github</a> or <a href="https://www.linkedin.com/in/brandon-lu-b6079b163/">LinkedIn</a>.
+                    &emsp;&emsp;Hi, I'm Brandon. I am currently a first year student studying Computer Science at RIT. In the past, I worked with development tools like ReactJS, MongoDB, Python, and Java.
+                    Feel free to look at some of my projects below or check me out on <a href="https://github.com/brandonlu1">Github</a> or <a href="https://www.linkedin.com/in/brandon-lu-b6079b163/">LinkedIn</a>.
                  </p>
             </div>
             <p className="title2">PROJECTS</p>
